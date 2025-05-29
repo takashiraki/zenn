@@ -3,7 +3,7 @@ title: "Nuxt / Storybookが使えるようになった？？"
 emoji: "📑"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [nuxt, storybook]
-published: false
+published: true
 ---
 
 # はじめに
